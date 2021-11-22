@@ -1,0 +1,16 @@
+.add_bt{
+    position:absolute;
+    top:50%;
+    left:55%;
+    
+}
+.sub_bt{
+    position:absolute;
+    top:50%;
+    left:35%;
+}
+.num{
+    position:absolute;
+    top:49%;
+    left:46%;
+}
